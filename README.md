@@ -4,8 +4,7 @@
 ### `Unete al grupo ofical para conocer novedades del Bot`
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CIbpzWAWXAWCwA3vHGkzkH)
 ### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/BRIANBOTOFICIALA/TheShadowBrokers-Bot/blob/master/config.js)
-
+- 
 ### `Video tutorial para instalar el Bot`
 <a href="https://youtu.be/dP8-aaHinBE"><img height="30" src="https://github.com/BRIANBOTOFICIALA/TheShadowBrokers-Bot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
 > Dar click en la imagen para redireccionarlos a YouTube
