@@ -1,10 +1,10 @@
 # ***`The Shadow Brokers - Bot`***
 ### `Si necesitas ayuda mandame mensaje`
-<a href="http://wa.me/5219996125657" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="http://wa.me/51975185269" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
 ### `Unete al grupo ofical para conocer novedades del Bot`
 [![Grupo de WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
 ### `AJUSTES`
-- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TheShadowBrokers1/TheShadowBrokers-Bot/blob/master/config.js)
+
 
 ### `Video tutorial para instalar el Bot`
 <a href="https://youtu.be/dP8-aaHinBE"><img height="30" src="https://github.com/shanduy/ShanBot/blob/main/temples/youtube-logo-6-2.png?raw=true"></a>&nbsp;&nbsp;
@@ -20,7 +20,7 @@ https://www.mediafire.com/file/js0ua4zpwrrug7b/Shadow.zip/file
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > termux-setup-storage
-> cd storage/downloads/Shadow
+> cd storage/downloads/Shadow2
 > npm install
 > npm install -g npm@8.1.4
 > npm update
@@ -42,9 +42,9 @@ para activar el autoleer automatico y utiliza
 desactivar estas funciones
 ```
 ## `EDITOR Y PORPIETARIO DEL BOT` 
-[![TheShadowBrokers1](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
+[![Briambot](https://avatars.githubusercontent.com/u/90165013?s=400&u=946f5c00c527c7e6fa2ef5148c6ad56270bb600e&v=4size=100)](https://github.com/TheShadowBrokers1) 
 ```bash
-`The Shadow Brokers - Bot ___ by Bruno Sobrino` 
+`The Shadow Brokers - Bot ___ by Briambot
 ```
 ### `AGRADECIMIENTOS EXTRAS`
 ```bash
